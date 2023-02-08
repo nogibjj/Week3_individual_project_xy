@@ -1,5 +1,5 @@
 # rust-new-project-template
-A good starting point for a new Rust project
+In this implementation, the player can navigate between four rooms (Hall, Kitchen, Bathroom, and Bedroom) by entering a number between 1 and 4 to move in a particular direction.
 
 ## References
 
